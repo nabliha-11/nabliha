@@ -7,7 +7,7 @@
 
 - 🤝 My favorite one [OtakuVerse](https://github.com/nabliha-11/OtakuVerse)
 
-- My first app [Musicana](https://github.com/nabliha-11/Music_App)
+- 📱 My first mobile app [Musicana](https://github.com/nabliha-11/Music_App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nabliha-11](https://github.com/nabliha-11)
 
